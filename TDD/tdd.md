@@ -5,5 +5,5 @@
 2. You are not allowed to write any more of a unit test then is sufficient to faill, and compilation failures are failures;
 3. You are not allowed to write any more production code than is sufficient to pass the one failing unit test.
 
-## REFERENCIES
+## REFERENCES
 [Youtube - The Three Laws of TDD (Featuring Kotlin)](https://www.youtube.com/watch?v=qkblc5WRn-U)
